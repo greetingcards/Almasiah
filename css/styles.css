@@ -30,10 +30,7 @@ Colors:
 - Buttons, icons, bullets - red #cc2973
 ******************************************/
 
-@font-face {
-	font-family: Aktiv Grotesk Arabic;
-	src: url(..\fonts\Aktiv-Grotesk-Arbc-Medium.ttf);
-}
+
 /**************************/
 /*     General Styles     */
 /**************************/
